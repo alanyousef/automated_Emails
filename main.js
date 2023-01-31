@@ -1,8 +1,6 @@
 require('dotenv').config
 const nodemailer = require("nodemailer");
 
-
-
 (async function run(){
 console.log('running my daily report')
 
